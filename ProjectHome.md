@@ -1,0 +1,5 @@
+Lately the Consumer Electronics industry has gone through some major changes. New ways of human-machine interactions have entered the market and portable devices became even more emphasized. Since these devices are mostly popular in non-professional usage, it isn't surprising that most of the user installed applications are games (statistics from 2011 show, that this is true for at least 60\% of all the users).
+
+This trend has influenced the video game developers too. In 2011, the video game industry was worth \$65 billion, and one third of this revenue was from portable games only. Fortunately, the hardware is rapidly evolving, and new grounds are opened for the developers.
+
+My work primarily focuses on 3D-rendering techniques, that can be effectively used on tablets. My goal was to review some known techniques in conjunction with these new devices and where necessary to make some small changes for``portability'', and finally to present my conclusions. Besides these I think it is important to mention how such algorithms fit into the content pipeline of video games, which is rarely mentioned in the technical literature.
